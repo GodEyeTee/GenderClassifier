@@ -68,7 +68,7 @@
 
 1.) clone ตัวโปรเจคนี้ด้วยคำสั่ง
 
-     git clone 
+     git clone https://github.com/GodEyeTee/GenderClassifier.git
 
 2.) เข้าไปที่โฟลเดอร์ program ของตัวโปรเจค
 
