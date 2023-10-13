@@ -75,7 +75,7 @@
 
      git clone https://github.com/GodEyeTee/GenderClassifier.git
      
-2.) เข้าไปที่โฟลเดอร์ program ของตัวโปรเจค
+2.) เข้าไปที่โฟลเดอร์ GenderClassifier
 
      cd GenderClassifier
 
