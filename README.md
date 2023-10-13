@@ -1,4 +1,4 @@
-# ThaiCarLicensePlate
+# Real-Time Gender Detection use Deep Learning
 โปรแกรมนี้จะทำการ detect ใบหน้าบุคคล จากนั้นแสดงเพศของบุคคลนั้นให้มีความแม่นยำมากที่สุด
  
 ### 6614401149 ญาณกร จารุเดชศิริ
