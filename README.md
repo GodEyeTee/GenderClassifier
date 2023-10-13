@@ -81,7 +81,7 @@
 
 3.) ติดตั้ง library ที่จำเป็น ด้วยการรันคำสั่ง 
      
-     pip install torch torchvision tensorflow imutils opencv-python
+     pip install -r requirements.txt
 
 4.) รันโปรแกรมหลัก ด้วยคำสั่ง
 
