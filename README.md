@@ -75,13 +75,14 @@
 
      git clone https://github.com/GodEyeTee/GenderClassifier.git
 
-2.) เข้าไปที่โฟลเดอร์ program ของตัวโปรเจค
 
-     cd program
-
-3.) ติดตั้ง library ที่จำเป็น ด้วยการรันคำสั่ง 
+2.) ติดตั้ง library ที่จำเป็น ด้วยการรันคำสั่ง 
      
      pip install -r requirements.txt
+     
+3.) เข้าไปที่โฟลเดอร์ program ของตัวโปรเจค
+
+     cd program
 
 4.) รันโปรแกรมหลัก ด้วยคำสั่ง
 
